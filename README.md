@@ -9,6 +9,10 @@ Make Own RayyBoxes!
 
 # License
 
+If You Edited code and shared the your version of RayyBoxes Please tag me 
+
+
+# GNU License
 Preamble
 The GNU General Public License is a free, copyleft license for software and other kinds of works.
 
