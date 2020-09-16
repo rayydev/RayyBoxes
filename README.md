@@ -3,11 +3,11 @@ Rayyboxes is java plugin for minecraft servers
 
 RayyBoxes is the luckyblocks but is for servers
 
-Open Source
-Easy Code
+Open Source,
+Easy Code,
 Make Own RayyBoxes!
 
-# icense
+# License
 
 Preamble
 The GNU General Public License is a free, copyleft license for software and other kinds of works.
